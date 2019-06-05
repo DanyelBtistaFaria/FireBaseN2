@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654747507427",
+    "firebase_url": "https://fir-b0caa.firebaseio.com",
+    "project_id": "fir-b0caa",
+    "storage_bucket": "fir-b0caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654747507427:android:38e0eb79afd576ef",
+        "android_client_info": {
+          "package_name": "br.edu.faculdadedelta.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654747507427-49c23vb7b46qqennd74bll4r41sdhr21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.faculdadedelta.firebase",
+            "certificate_hash": "6132ba4840bf4252066a7bdc2a9e4a94edf1e416"
+          }
+        },
+        {
+          "client_id": "654747507427-rs6tot33fha9lc28lalhef3chhnkjs1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTaoybxhhovtCKmeQr8iKP2ZlHGvkyuVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654747507427-rs6tot33fha9lc28lalhef3chhnkjs1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
